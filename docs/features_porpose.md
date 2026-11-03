@@ -18,6 +18,7 @@ Purpose of section: the app cannot personalise anything without knowing the user
 | A8 | Skipped meal slots | Many people never eat breakfast | Splits the day's target over meals actually eaten, avoiding overeating at others |
 | A9 | Units & spoon calibration | "1 spoon" differs between messes and people | Makes portion advice match the user's real spoon/ladle |
 | A10 | Multiple users | Hard rule: not built for one person only | Each person gets their own plan from one shared menu |
+| A11 | Day-specific diet rules | Many people avoid non-veg on certain weekdays for religious or personal reasons | Filters that day's menu correctly and lets the weekly planner make up protein on other days |
 
 ## B. Food modes
 Purpose of section: different goals need different targets and food rules.
