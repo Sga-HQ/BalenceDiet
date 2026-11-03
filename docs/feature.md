@@ -76,6 +76,21 @@ Late ideas go to "Not doing" unless they fix a bug or missing detail.
 - ★ H2 Export and delete my data
 - ★ H3 Medical disclaimer shown in setup and health modes
 
+## I. Activity
+- ★ I1 Daily activity entry — user types calories burned (from any watch,
+      gym machine, or estimate) and/or workout type + duration
+- ★ I2 Activity-adjusted targets — entered calories adjust that day's
+      target, counted only partially because device estimates are inexact
+- ★ I3 Mode-aware use of activity — fat loss: add back little;
+      bulk: add back more; gym/strength mode: workout days get extra
+      protein and carbs
+- I4 Auto gym-day detection — a logged workout marks the day as a
+      training day (links to F5 day-specific targets)
+- ★ I5 Reality check — weight trend over weeks overrides entered
+      calorie numbers if they disagree
+- I6 No entry fallback — if nothing is entered, use the activity level
+      from the profile (A4) instead of assuming zero
+
 ## Not doing (consciously rejected)
 - Barcode scanning
 - Photo / AI food recognition
