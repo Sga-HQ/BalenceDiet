@@ -15,6 +15,10 @@ Late ideas go to "Not doing" unless they fix a bug or missing detail.
 - ★ A8 Skipped meal slots — e.g. "I don't eat breakfast"
 - A9 Units — kg/lb, and personal spoon/ladle calibration
 - ★ A10 Multiple users — separate private profiles sharing one menu
+- ★ A11 Day-specific diet rules — recurring weekly rules that override the
+      base diet type on chosen days (e.g. "no non-veg on Saturday",
+      "veg only on Tuesday and Saturday"); user chooses whether eggs
+      count as non-veg for that rule
 
 ## B. Food modes
 - ★ B1 Goal modes — fat loss, maintenance, lean bulk, bulk, recomposition
